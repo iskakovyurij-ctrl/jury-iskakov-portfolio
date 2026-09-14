@@ -15,4 +15,4 @@
 - ✅ Верстка HTML/CSS
 
 ## Свяжитесь со мной
-[Telegram](https://t.me/@Yurijalex) | [LinkedIn](linkedin.com/in/your-profile)
+[Telegram](https://t.me/@Yurijalex) | Я пользуюсь мессенджером MAX. Присоединяйся! https://max.ru/u/f9LHodD0cOLg59qhzCXriMDOhFMO94uh48azFT-q78RffTl96ZHfO_AIn1Y
