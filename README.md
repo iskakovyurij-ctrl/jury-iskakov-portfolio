@@ -1,4 +1,4 @@
-<body style="background-color: #1a1b26;
+<body style="background-color: #0d1117;
       margin: 40px;
       font-family: Arial, sans-serif;
 ">
