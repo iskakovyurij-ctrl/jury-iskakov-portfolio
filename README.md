@@ -1,4 +1,8 @@
-# Привет! Меня зовут Юрий 👋
+<body style="background-color: #1a1b26;
+      margin: 40px;
+      font-family: Arial, sans-serif;
+">
+  # Привет! Меня зовут Юрий 👋
 
 Я начинающий разработчик и исследователь данных. 
 
